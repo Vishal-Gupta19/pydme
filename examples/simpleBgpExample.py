@@ -6,9 +6,9 @@ import json
 from pydme import Node
 
 # Fill in host, username, password here
-username = ''
-password = ''
-host = ''
+username = 'admin'
+password = 'Cisco123'
+host = '10.10.20.58'
 
 # This method is used to login to the NX-OS node
 def loginNode():

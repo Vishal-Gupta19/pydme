@@ -1,0 +1,8 @@
+# Untracked files and folders
+.vscode/
+archive/dme-9.3.5-meta.json
+build/
+dist/
+pydme.egg-info/
+pydme/__pycache__/
+pyproject.toml
