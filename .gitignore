@@ -5,4 +5,5 @@ build/
 dist/
 pydme.egg-info/
 pydme/__pycache__/
+autodme/__pycache__/
 pyproject.toml
